@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hackernews-react-apollo/static/css/main.d1cfbb8e.chunk.css",
+    "main.js": "/hackernews-react-apollo/static/js/main.c68feb35.chunk.js",
+    "main.js.map": "/hackernews-react-apollo/static/js/main.c68feb35.chunk.js.map",
+    "runtime-main.js": "/hackernews-react-apollo/static/js/runtime-main.eac3a19b.js",
+    "runtime-main.js.map": "/hackernews-react-apollo/static/js/runtime-main.eac3a19b.js.map",
+    "static/js/2.d574fab7.chunk.js": "/hackernews-react-apollo/static/js/2.d574fab7.chunk.js",
+    "static/js/2.d574fab7.chunk.js.map": "/hackernews-react-apollo/static/js/2.d574fab7.chunk.js.map",
+    "index.html": "/hackernews-react-apollo/index.html",
+    "precache-manifest.9d689f013301ef195be681ae444b4bc0.js": "/hackernews-react-apollo/precache-manifest.9d689f013301ef195be681ae444b4bc0.js",
+    "service-worker.js": "/hackernews-react-apollo/service-worker.js",
+    "static/css/main.d1cfbb8e.chunk.css.map": "/hackernews-react-apollo/static/css/main.d1cfbb8e.chunk.css.map",
+    "static/js/2.d574fab7.chunk.js.LICENSE.txt": "/hackernews-react-apollo/static/js/2.d574fab7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac3a19b.js",
+    "static/js/2.d574fab7.chunk.js",
+    "static/css/main.d1cfbb8e.chunk.css",
+    "static/js/main.c68feb35.chunk.js"
+  ]
+}
